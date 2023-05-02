@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "name": "san-borja-intersections",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    ...,
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1861,
+        "full_id": "w279914555",
+        "full_id_2": "w40268831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0022211,
+          -12.0881256
+        ]
+      }
+    },
+    ...
+  ]
+}
