@@ -4,7 +4,7 @@ Trabajo parcial del curso de Complejidad Algorítmica (2023-01)
 
 ## Informe
 
-[Disponible en Google Docs](https://docs.google.com/document/d/1tjBu6k09OlcBt1cLgxsxWa8OwgQQAQhVl0KegbCi6xc/edit?usp=sharing)
+[Disponible en Google Docs](https://docs.google.com/document/d/1tjBu6k09OlcBt1cLgxsxWa8OwgQQAQhVl0KegbCi6xc/edit?usp=sharing) o en [GitHub Releases](https://github.com/dalbitresb12/202301-CC184-CC41-TF/releases).
 
 ## Herramientas
 
